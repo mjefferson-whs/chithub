@@ -1,1 +1,1 @@
-PASSWORD = "shhhhhhhhh"
+PASSWORD = "password"
